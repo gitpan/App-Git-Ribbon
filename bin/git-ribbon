@@ -6,7 +6,7 @@ use warnings;
 use Getopt::Long::Descriptive;
 use IO::Prompter;
     
-our $VERSION = '0.001'; # VERSION
+our $VERSION = '0.002'; # VERSION
 # PODNAME: git-ribbon
 
 my ($option, $usage) = describe_options(
